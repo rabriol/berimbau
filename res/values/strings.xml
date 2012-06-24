@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="hello">Hello World, ProjectXActivity!</string>
+    <string name="app_name">Berimbau</string>
+    
+	<string name="botao_pesquisar">Pesquisar</string>
+	
+    <string name="botao_login">Login</string>
+    
+    <string name="radio_cantor">Cantor</string>
+    <string name="radio_musica">Música</string>
+</resources>
