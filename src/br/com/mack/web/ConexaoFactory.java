@@ -18,7 +18,7 @@ public class ConexaoFactory {
 	private HttpGet get;
 	
 	public ConexaoFactory(String url) {
-		this.url = url;
+		this.url  = url;
 	}
 	
 	public HttpResponse executeHttpClient() {
